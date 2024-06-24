@@ -8,3 +8,7 @@ DB_USER=postgres
 DB_PASSWORD=password_postgresql
 DB_DATABASE=likeme
 PORT=3000
+
+# Desafio_Like_Me_II
+
+utilice el mismo proyecto de like me I para realizar la segunda parte, por lo que he subido todo al mismo repositorio anterior :)
